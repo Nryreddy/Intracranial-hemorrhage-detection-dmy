@@ -1,0 +1,10 @@
+flask==2.2.3
+opencv-python
+tqdm
+tflearn
+matplotlib
+keras
+tensorflow
+numpy
+pillow
+flask
